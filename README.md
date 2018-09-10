@@ -21,10 +21,10 @@ The script CANNOT run on its own, it still requires you to click 'allow' in the 
 
 This whole program most likely won't work on linux or any other os.
 # Thanks to:
-Nir Sofer: http://www.nirsoft.net/ , who's nircmd utility is essential in allowing the batch scripts to run as admin.
+Nir Sofer: http://www.nirsoft.net/ , whose nircmd utility is essential in allowing the batch scripts to run as admin.
 
-Brent Vollebregt: https://github.com/brentvollebregt , who's auto-py-to-exe allowed me to convert the py files to a standalone exe.
+Brent Vollebregt: https://github.com/brentvollebregt , whose auto-py-to-exe allowed me to convert the py files to a standalone exe.
 
-The PyInstaller guys: http://www.pyinstaller.org/ , who's program is the foundation of auto-py-to-exe
+The PyInstaller guys: http://www.pyinstaller.org/ , whose program is the foundation of auto-py-to-exe
 
 Many  thanks!
