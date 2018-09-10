@@ -1,7 +1,4 @@
-net stop qupdate
-timeout 2
-net stop qengine
+net stop AdobeARMservice
 timeout 1
-sc query qupdate
-sc query qengine
+sc query AdobeARMservice
 pause
