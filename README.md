@@ -9,7 +9,7 @@ And use this key: !YN-9xQgL0aiZ1mW8HKIVDY2cK0pXB_yWUl9lp1TuMvI
 
 Extract, and enjoy! (use the exe)
 ## Python Prerequisite
-You must have installed Python 3 (https://www.python.org/downloads/) and nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of the page).
+You must have installed Python 3 (https://www.python.org/downloads/) and nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of that page).
 
 Then, just download the files into one folder, and run the .pyw file!
 
