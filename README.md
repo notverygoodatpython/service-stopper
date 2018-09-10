@@ -3,7 +3,11 @@ This program uses a basic python script plus tkinter to call on Windows batch sc
 # Installation Instructions
 You can use the standalone or the python prerequisite version.
 ## Standalone
+Just follow this link: https://mega.nz/#!TfIhWIbC
 
+And use this key: !YN-9xQgL0aiZ1mW8HKIVDY2cK0pXB_yWUl9lp1TuMvI
+
+Extract, and enjoy! (use the exe)
 ## Python Prerequisite
 You must have installed Python 3 (https://www.python.org/downloads/) and nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of the page).
 
