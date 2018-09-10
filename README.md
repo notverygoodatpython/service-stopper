@@ -19,4 +19,4 @@ Simply change the name of the started/stopped/queried service to whatever you wa
 # Beware
 The script CANNOT run on its own, it still requires you to click 'allow' in the UAC prompt. You could use one of the suggestions here: https://www.techgainer.com/disable-uac-prompts-specific-programs-windows/   but I haven't tried any of them so they are unproven (also you would probably need to disable UAC for the entire CMD.exe, which isn't a great idea.)
 
-This whole program most likely doesn't work on linux or any other os.
+This whole program most likely won't work on linux or any other os.
