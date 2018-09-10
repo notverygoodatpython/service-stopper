@@ -20,3 +20,11 @@ Simply change the name of the started/stopped/queried service to whatever you wa
 The script CANNOT run on its own, it still requires you to click 'allow' in the UAC prompt. You could use one of the suggestions here: https://www.techgainer.com/disable-uac-prompts-specific-programs-windows/   but I haven't tried any of them so they are unproven (also you would probably need to disable UAC for the entire CMD.exe, which isn't a great idea.)
 
 This whole program most likely won't work on linux or any other os.
+# Thanks to:
+Nir Sofer: http://www.nirsoft.net/ , who's nircmd utility is essential in allowing the batch scripts to run as admin.
+
+Brent Vollebregt: https://github.com/brentvollebregt , who's auto-py-to-exe allowed me to convert the py files to a standalone exe.
+
+The PyInstaller guys: http://www.pyinstaller.org/ , who's program is the foundation of auto-py-to-exe
+
+Many  thanks!
