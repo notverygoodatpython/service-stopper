@@ -12,7 +12,7 @@ Then download nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links 
 
 Extract, and enjoy! (use the exe)
 ## Python Prerequisite
-You must have installed Python 3 (https://www.python.org/downloads/) and nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of that page) and copy nircmd and nircmdc to your windows directory (C:/Windows)
+You must have installed Python 3 (https://www.python.org/downloads/) and nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of that page) and copied nircmd and nircmdc to your windows directory (C:/Windows)
 
 Then, just download the files into one folder, and run the .pyw file!
 
