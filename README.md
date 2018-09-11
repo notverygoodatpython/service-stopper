@@ -2,6 +2,7 @@
 This program uses a basic python script plus tkinter to call on Windows batch scripts to stop/start and then display the status of a service. In this case it starts/stops the Adobe Acrobat Update service: a placeholder for whatever you want. 
 # Installation Instructions
 You can use the standalone or the python prerequisite version.
+The standalone is much slower to load.
 ## Standalone
 Just follow this link: https://mega.nz/#!TfIhWIbC
 
