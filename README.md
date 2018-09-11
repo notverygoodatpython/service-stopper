@@ -11,7 +11,8 @@ And use this key: !YN-9xQgL0aiZ1mW8HKIVDY2cK0pXB_yWUl9lp1TuMvI
 Then download nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of that page) and copy nircmd and nircmdc to your windows directory (C:/Windows)
 
 Extract, and enjoy! (use the exe)
-!!Smartscreen may caution you against the program. Click "more info" and then "Run Anyway".
+
+!!! Smartscreen may caution you against the program. Click "more info" and then "Run Anyway".
 ## Python Prerequisite
 You must have installed Python 3 (https://www.python.org/downloads/) and nircmd (http://www.nirsoft.net/utils/nircmd.html) (download links are at the very bottom of that page) and copied nircmd and nircmdc to your windows directory (C:/Windows)
 
